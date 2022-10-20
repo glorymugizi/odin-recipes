@@ -1,0 +1,29 @@
+body {
+  background-color: #f5ef42;
+  color: #000000;
+}
+
+img {
+  height: auto;
+  width: 30%;
+}
+.heading {
+  font-family: "Times New Roman", Times, serif;
+}
+.sub-heading {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+a {
+  text-decoration: none;
+  color: #000000;
+  line-height: 2rem;
+}
+#first-page-heading {
+  font-size: 8rem;
+  text-align: center;
+}
+.first-page-list {
+  text-align: center;
+  list-style: georgian;
+  list-style-position: inside;
+}
