@@ -6,6 +6,7 @@ body {
 img {
   height: auto;
   width: 30%;
+  border-radius: 200px;
 }
 .heading {
   font-family: "Times New Roman", Times, serif;
@@ -26,4 +27,8 @@ a {
   text-align: center;
   list-style: georgian;
   list-style-position: inside;
+}
+figure {
+  font-style: oblique;
+  font-weight: bold;
 }
